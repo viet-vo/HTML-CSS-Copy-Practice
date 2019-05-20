@@ -4,11 +4,21 @@
     padding-right: 50px;
 }
 #logo {
-
+    width: 67px;
+    height: auto;
 }
 .floatRight {
     float: right;
 }
 .floatLeft {
     float: left;
+}
+.fullWidth {
+    width: 100%;
+}
+.alignCenter {
+    text-align: center;
+}
+.alignRight {
+    text-align: right;
 }
